@@ -1,13 +1,11 @@
 {
   "files": {
-    "main.css": "/React-Booking-Project/static/css/main.a39820af.css",
-    "main.js": "/React-Booking-Project/static/js/main.d588e330.js",
-    "index.html": "/React-Booking-Project/index.html",
-    "main.a39820af.css.map": "/React-Booking-Project/static/css/main.a39820af.css.map",
-    "main.d588e330.js.map": "/React-Booking-Project/static/js/main.d588e330.js.map"
+    "main.css": "/React-Booking-Project/static/css/main.93ce8187.css",
+    "main.js": "/React-Booking-Project/static/js/main.08fcec45.js",
+    "index.html": "/React-Booking-Project/index.html"
   },
   "entrypoints": [
-    "static/css/main.a39820af.css",
-    "static/js/main.d588e330.js"
+    "static/css/main.93ce8187.css",
+    "static/js/main.08fcec45.js"
   ]
 }
