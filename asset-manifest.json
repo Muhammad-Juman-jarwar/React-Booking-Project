@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React-Booking-Project/static/css/main.a39820af.css",
+    "main.js": "/React-Booking-Project/static/js/main.d588e330.js",
+    "index.html": "/React-Booking-Project/index.html",
+    "main.a39820af.css.map": "/React-Booking-Project/static/css/main.a39820af.css.map",
+    "main.d588e330.js.map": "/React-Booking-Project/static/js/main.d588e330.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a39820af.css",
+    "static/js/main.d588e330.js"
+  ]
+}
