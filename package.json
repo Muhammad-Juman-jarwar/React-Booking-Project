@@ -2,7 +2,7 @@
   "name": "booking",
   "version": "0.1.0",
   "homepage": "https://Muhammad-Juman-jarwar.github.io/React-Booking-Project",
-  "private": true,
+  "private": false,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.1.1",
